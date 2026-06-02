@@ -117,3 +117,11 @@ akshattated18@gmail.com
 ---
 
 ⭐ Always open to learning, collaboration, and exciting opportunities.
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Akshat-Tated&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akshat-Tated&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Tated&layout=compact&theme=tokyonight)
